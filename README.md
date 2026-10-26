@@ -126,18 +126,6 @@ You should see a QEMU window show the GRUB menu, and after boot the message **We
 
 C, x86 Assembly (NASM), i686-elf GCC, GNU Make, GRUB, xorriso, QEMU, Linux
 
-## Team
-
-Department of CSE, Section E
-
-| Name | Register Number |
-|------|-----------------|
-| Mohammed Sharukkhan M | 2117250020251 |
-| Nithilan A | 2117250020281 |
-| Nithish Krishna R | 2117250020283 |
-
-**Guide:** Mrs. G. Kavitha
-
 ## References
 
 1. OSDev Wiki, "Bare Bones" - https://wiki.osdev.org/Barebones
